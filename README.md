@@ -44,6 +44,7 @@ List of features ready and TODOs for future development
 * Sign up to the app
 * Log in to app
 * Search product/ add to cart
+* Buy product etc.
 
 ## Status
 Project is: _finished_
