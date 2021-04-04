@@ -24,7 +24,7 @@ Log in to app
     input text  ${txt_loginPassword}    ${password}
     click button   ${signIn_btn}
     set selenium implicit wait  2 seconds
-Go to Dresses page
+Go to a menu page
     click element   ${linkTabs}
     title should be  Dresses - My Store
 Select a product
